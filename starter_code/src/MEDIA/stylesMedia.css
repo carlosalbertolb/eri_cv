@@ -1,0 +1,114 @@
+.logo{
+    background-image: url(./logo.png);
+    height:4.5em;
+    width: 4.5em;
+    background-size: contain;
+    background-position: center center;
+}
+
+
+.fotoStyle{
+    background-image: url(./fotoCVmini.jpg);
+    width:80%;
+    height:80%;
+    border-radius:24px;
+    margin:20%;
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+    background-size:auto;
+    justify-content:center;
+}
+
+.icon1{
+    background-image: url(./icon-phone.png);
+    background-position: center center;
+    height:1.4em;
+    width: 1.4em;
+    cursor: pointer;
+}
+
+.icon2{
+    background-image: url(./mail.png);
+    background-position: center center;
+    height:1.0em;
+    width: 1.3em;
+    cursor: pointer;
+}
+
+.icon3{
+    background-image: url(./icon-instagram.png);
+    background-position: center center;
+    height:1.4em;
+    width: 1.4em;
+    cursor: pointer;
+}
+
+.icon4{
+    background-image: url(./icon-twitter_squared.png);
+    background-position: center center;
+    height:1.4em;
+    width: 1.4em;
+    cursor: pointer;
+}
+
+.fotoProyecto1{
+    background-image: url(./p1.png);
+    background-position: center center;
+    height: 24em;
+    width: 38em;
+    background-size:auto;
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+    justify-content:center;
+}
+
+.fotoProyecto2{
+    background-image: url(./p2.png);
+    background-position: center center;
+    height: 24em;
+    width: 38em;
+    background-size:auto;
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+    justify-content:center;
+}
+
+.fotoProyecto3{
+    background-image: url(./p3.png);
+    background-position: center center;
+    height: 24em;
+    width: 38em;
+    background-size:auto;
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+    justify-content:center;
+}
+
+.fotoProyecto4{
+    background-image: url(./p4.png);
+    background-position: center center;
+    height: 24em;
+    width: 38em;
+    background-size:auto;
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+    justify-content:center;
+}
+
+.flecha{
+    background-image: url(./flecha.png);
+    background-position: center center;
+    height: 3em;
+    width: 3em;
+    background-size:auto;
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+    justify-content:center;
+}
+
+.miniCompi1{
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+}

@@ -1,0 +1,49 @@
+
+
+.botonType1{
+    color:#ffffff;
+    font-size: 14px;
+    font-weight: 700;
+    border-width: 5px;
+    border-color:#242A75;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-color:#242A75;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.botonType2{
+    color:#ffffff;
+    font-weight: 700;
+    font-size: 14px;
+    border-width: 5px;
+    border-color:#242A75;
+    padding-left: 22px;
+    padding-right: 22px;
+    padding-bottom: 12px;
+    padding-top: 12px;
+    background-color:#242A75;
+    border-radius: 10px;
+    cursor: pointer;
+    line-height: 23px
+}
+
+.botonType3{
+    color:#242A75;
+    font-size: 14px;
+    font-weight: 700;
+    border-width: 5px;
+    border-color:#242A75;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    background-color:transparent;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+  

@@ -1,0 +1,12 @@
+/*      CSS Principal     */
+@import url(./CSS/stylesText.css);
+@import url(./CSS/stylesNav.css);
+@import url(./MEDIA/stylesMedia.css);
+@import url(./CSS/stylesBottom.css);
+
+html{
+    font-family: 'Hind Siliguri', sans-serif;
+    font-weight: 300;
+    color: #310A90;
+    background: #1A1944;  
+}

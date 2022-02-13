@@ -1,0 +1,173 @@
+/* Clase para nav Principal */
+.navCentro{
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    height: 510px;
+    margin-left: auto;
+    margin-right: auto;
+    background:linear-gradient(to right, #72EDF2 0%, #5151E5 100%);
+}
+
+.navCentro2{
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    height:350px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction:column;
+    background:linear-gradient(to right, #72EDF2 0%, #5151E5 100%);
+}
+
+.navCentro3{
+    width: 550px;
+    background: transparent;
+    text-align:center;
+    /* Los siguintes tres atibutos centran desde un div padre en lo horizontal y veriticar */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.navCentro4{
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    height:240px;
+  /*  height:180px;*/
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction:column;
+    background:#ffffff20;
+    border-radius: 24px;
+    border-color: #ffffff75;
+    border-width: 4px;
+}
+
+.navCentro5{
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    height:450px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction:row;
+    background:linear-gradient(to right, #72EDF2 0%, #5151E5 100%);
+}
+
+.navCentro6{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction:column;
+    padding-left: 6%;
+}
+.navCentro7{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction:column;
+}
+
+
+.navRow{
+    justify-self: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 99%;
+    height: auto;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navRowTitle{
+    justify-self: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 99%;
+    height: 5em;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navBody{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    width: 90%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    background:linear-gradient(to right, #72EDF2 0%, #5151E5 100%);
+}
+
+/* Clase para poner iconos horizontales */
+.navIcon{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 60%;
+    height: 3.5em;
+    align-items:center;
+}
+
+/* Clase para dar espacio entre secciones  */
+.navSpace{   
+    border-bottom:1px solid;
+    padding-bottom:10px;
+
+}
+
+
+/**del FOOTER**/
+.navCentroF{
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    height: 6em;
+    margin-left: auto;
+    margin-right: auto;
+    background:linear-gradient(to right, #72EDF2 0%, #5151E5 100%);
+}
+
+.navRowF{
+    justify-self: center;
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-start;
+    width: 99%;
+    height: auto;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navRowTitleF{
+
+    justify-self: center;
+    display: flex;
+    flex-direction: row;
+    justify-content:left;
+    width: 99%;
+    height: 5em;
+    align-items: center;
+    margin-left: 6em;
+    margin-right: auto;
+}
+.navIconF{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 60%;
+    height: 3.5em;
+    align-items:center;
+}

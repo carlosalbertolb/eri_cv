@@ -1,0 +1,35 @@
+.textType1{
+    color: #242A75;
+    font-weight: 700;
+    font-size: 22px;
+    text-transform: uppercase;
+}
+
+.textType2{
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 22px;
+    text-transform: uppercase;
+}
+
+.textType3{
+    color: #242A75;
+    font-weight: 700;
+    font-size: 22px;
+}
+
+.textType4{
+    color:#242A75;
+    font-weight: 700;
+    font-size: 22px;
+    text-transform: uppercase;
+}
+
+.none{
+    color: #242A75;
+    text-decoration: none;
+}
+
+.dotcom{
+    cursor: pointer;
+}
